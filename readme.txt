@@ -1,16 +1,1 @@
-hello git
-hello python
-hello linux
-
-master, ios
-
-windows
-
-
-def sub(x,y):
-  return x-y
-
-def add(x,y):
-  return x+y
-
-
+I love i2sec and whole members and teachers. thank you!
